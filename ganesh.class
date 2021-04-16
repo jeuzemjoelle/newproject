@@ -3,6 +3,7 @@ class ganesh{
 
              public Static void  main(String{} args{
                System.out.orintln("this is the first program");
+               system.out.println("Second line added now to the program");
 }
 } 
 
